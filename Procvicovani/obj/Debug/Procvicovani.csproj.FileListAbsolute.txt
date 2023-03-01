@@ -1,0 +1,10 @@
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.csproj.AssemblyReference.cache
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.Properties.Resources.resources
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.csproj.GenerateResource.cache
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.csproj.CoreCompileInputs.cache
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\bin\Debug\Procvicovani.exe.config
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\bin\Debug\Procvicovani.exe
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\bin\Debug\Procvicovani.pdb
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.exe
+C:\Users\abelm\source\repos\Procvicovani\Procvicovani\obj\Debug\Procvicovani.pdb
