@@ -16,7 +16,8 @@ namespace Procvicovani
         {
             InitializeComponent();
             Console.WriteLine("Imperio");
-            MessageBox.Show("Hello");
+            MessageBox.Show("Crusio");
+            MessageBox.Show("Bombarda");
         }
         
     }
